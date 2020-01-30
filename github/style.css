@@ -1,0 +1,38 @@
+body {
+    background: url(https://github.com/images/modules/site/heroes/simple-codelines.svg), #2b3137;
+    background-size: cover;
+}
+
+header {
+    background-color: #24292E;
+    position: absolute;
+    width: 100%;
+    height: 72px;
+    margin-top: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+#hlogo {
+    position: relative;
+    top: 19px;
+    left: 51px;
+}
+
+#first {
+    position: absolute;
+    top: 220px;
+    left: 80px;
+    width: 636px;
+    height: 64px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#bfd {
+    font-size: 64px;
+    color: white;
+    line-height: 64px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
